@@ -6,7 +6,7 @@
 [抓马点导入程序@娱乐抓马]() 可能报毒，也可以不使用。如果被删除在安全软件里找回。
 
 1. 使用步骤
-！[](./img/数据使用步骤1.jpg)
+！[](https://raw.githubusercontent.com/Drbeo/JX3/master//img/数据使用步骤1.jpg)
 ！[](https://github.com/Drbeo/JX3-TeamData/raw/master/img/数据使用步骤2.jpg)
 2. 马点查看
 ！[](https://github.com/Drbeo/JX3-TeamData/raw/master/img/黑龙沼坐标点.jpg)
